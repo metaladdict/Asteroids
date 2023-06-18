@@ -17,7 +17,6 @@ On vide l'écran et on affiche un smiley de fin de partie
 function gameOver() 
 {
 	enJeu = false
-	listeAsteroides = []
 	basic.clearScreen()
 	basic.showIcon(IconNames.Sad)
 }

@@ -1,15 +1,19 @@
 # :rocket: Asteroids
 
 Code pour le jeu asteroids sur micro:bit.   
-Sur makecode.microbit.org, créez un nouveau projet, passer en javascript et collez le code pour tester
+Retrouvez :  
+- le post associé sur [metalmonkey.eu](https://www.metalmonkey.eu/2023/06/asteroid-sur-microbit/)
+- le test de la version de base sur [makecode](https://makecode.microbit.org/_XaCXXCiz0hTW)
+
+## :card_index: Liste des versions
 | Fichier | Contenu |
 | --- | --- |
 | jeu_commente.ts | Code du jeu de base, commenté |
-| jeu_complet.ts | Jeu complet avec toutes les évolutions |
-| jeu_acceleration.ts | Version avec accélération |
-| jeu_noborder.ts | Passage d'un côté de la matrice à l'autre |
 | jeu_score.ts | Version avec code implémenté |
+| jeu_noborder.ts | Passage d'un côté de la matrice à l'autre |
 | jeu_son.ts | Ajout de sons |
+| jeu_acceleration.ts | Version avec accélération |
+| jeu_complet.ts | Jeu complet avec toutes les évolutions |
 
 
 ## :bulb: Pour aller plus loin
