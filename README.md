@@ -13,11 +13,11 @@ Sur makecode.microbit.org, créez un nouveau projet, passer en javascript et col
 
 
 ## :bulb: Pour aller plus loin
-[X] ajouter un score
-[ ] utiliser le gyroscope pour avancer/reculer le vaisseau
-[X] utiliser la radio pour augmenter la surface de jeu sur plusieurs cartes
-[X] accelérer le jeu selon le score
-[ ] ajouter des options sur la pause
+- [X] ajouter un score
+- [ ] utiliser le gyroscope pour avancer/reculer le vaisseau
+- [X] utiliser la radio pour augmenter la surface de jeu sur plusieurs cartes
+- [X] accelérer le jeu selon le score
+- [ ] ajouter des options sur la pause
 
 
 ## :thumbsdown: Problème à auditer
