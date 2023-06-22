@@ -1,7 +1,7 @@
 /* Cette version du jeu inclut 
 - le score
 - les sons
-- l'acceleration (step à -10ms tous les 10 points)
+- l'acceleration (step à -10ms tous les 5 points)
 */
 let enPause = false
 let enJeu = false
@@ -131,7 +131,7 @@ loops.everyInterval(10, function () {
 				{
 					listeAsteroides.removeAt(i)
 					score++
-					if(score%10==0)
+					if(score%5==0)
 					{
 						tempo--
 						music.play(music.createSoundExpression(WaveShape.Sawtooth, 3042, 3569, 255, 0, 200, SoundExpressionEffect.None, InterpolationCurve.Logarithmic), music.PlaybackMode.UntilDone)

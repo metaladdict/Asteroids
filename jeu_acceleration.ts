@@ -1,4 +1,5 @@
 // Cette version du jeu inclut l'acceleration
+// Elle se fait à chaque astéroide et est donc rapidement injouable
 let enPause = false
 let enJeu = false
 let posX = 0
